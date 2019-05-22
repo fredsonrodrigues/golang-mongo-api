@@ -1,0 +1,2 @@
+server="mongodb://userGlobo:s4mpl3y123@ds040089.mlab.com:40089/dbarticles"
+database="article"
